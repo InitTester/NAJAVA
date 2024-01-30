@@ -12,4 +12,5 @@ public class HomeController {
     private String yoonjae(){
         return "index";
     }
+
 }
